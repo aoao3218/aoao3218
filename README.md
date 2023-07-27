@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Hi there 👋
+I am a former product designer (UI/UX) who has transitioned into the role of a back-end engineer. I am deeply passionate about coding and firmly believe in creating tools that are reusable and bring value to people.
 <!--
 **aoao3218/aoao3218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
